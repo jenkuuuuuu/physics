@@ -1,6 +1,5 @@
 Materials can be categorised by their individual properties, each of which making them specialised for different purposes.
 
-
 | Property        | Description                                                                                                          |
 | --------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Strength        | The ability to withstand great force or pressure                                                                     |
@@ -14,4 +13,4 @@ Materials can be categorised by their individual properties, each of which makin
 | Plasticity      | The inability of a body to return to its original shape after being deformed                                         |
 | Toughness       | The ability to absorb energy on impact without fracturing                                                            |
 | Conductivity    | The rate at which electricity or heat can act through a material                                                     |
-| Fire Resistence | The ability to withstand extreme heat and flame                                                                      |
+| Fire Resistance | The ability to withstand extreme heat and flame                                                                      |
